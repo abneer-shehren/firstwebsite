@@ -1,0 +1,11 @@
+.main{
+margin-left: 130px;
+}
+.pin{
+    width: 300px;
+    height: 400px;
+}
+.pic{
+    display: inline-block;
+    margin: 10px;
+}
